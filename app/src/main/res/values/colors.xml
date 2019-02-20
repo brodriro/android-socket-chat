@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#009688</color>
+    <color name="primaryDark">#00796B</color>
+    <color name="primaryLight">#B2DFDB</color>
+    <color name="accent">#FFEB3B</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="username0">#cf4639</color>
+    <color name="username1">#ab6a16</color>
+    <color name="username2">#e4a015</color>
+    <color name="username3">#ef8f13</color>
+    <color name="username4">#51b30f</color>
+    <color name="username5">#2e790a</color>
+    <color name="username6">#6daf43</color>
+    <color name="username7">#38a38b</color>
+    <color name="username8">#3a72b9</color>
+    <color name="username9">#3d2c9c</color>
+    <color name="username10">#8127b1</color>
+    <color name="username11">#9f26ab</color>
+
+    <color name="white">#fff</color>
+
+</resources>

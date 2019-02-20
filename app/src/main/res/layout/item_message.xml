@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/shape_radius"
+    android:layout_margin="@dimen/spacing"
+    android:padding="@dimen/spacing">
+
+    <TextView
+        android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="false"
+        android:textSize="@dimen/chat_user_message_name_textSize"
+        android:textColor="@color/primaryText"
+        android:text="@string/chat_user"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/message"
+        style="?android:textAppearanceMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textSize="@dimen/chat_user_message_text_textSize"
+        android:text="@string/chat_message"
+        android:textColor="@color/primaryText" />
+
+</LinearLayout>
